@@ -1,0 +1,30 @@
+{
+  "name": "spotify-playlist-curator-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for curating Spotify playlists using Claude's recommendations",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "spotify",
+    "playlist",
+    "curator",
+    "mcp",
+    "claude",
+    "ai"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@anthropic-ai/mcp": "^0.3.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "spotify-web-api-node": "^5.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
