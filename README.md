@@ -24,8 +24,8 @@ An MCP server that helps curate Spotify playlists by analyzing your existing tra
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/spotify-playlist-curator-mcp.git
-   cd spotify-playlist-curator-mcp
+   git clone https://github.com/lechiffre1/Spotify-Playlist-Curator-MCP-Server.git
+   cd Spotify-Playlist-Curator-MCP-Server
    ```
 
 2. Install dependencies:
